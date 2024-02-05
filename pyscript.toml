@@ -1,0 +1,5 @@
+name = "gongyh"
+#packages = ["biopython", "numpy"]
+
+[splashscreen]
+enabled = true
